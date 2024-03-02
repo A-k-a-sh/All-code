@@ -33,7 +33,7 @@ int main()
 }
 
 /*
-`10
+```10
 From 1 to n all the divisors are following: 
 1
 1 =>Total = 1; Sum: 1
@@ -54,5 +54,5 @@ From 1 to n all the divisors are following:
 9
 1 3 9 =>Total = 3; Sum: 13
 10
-1 2 5 10 =>Total = 4; Sum: 18`
+1 2 5 10 =>Total = 4; Sum: 18```
     */
