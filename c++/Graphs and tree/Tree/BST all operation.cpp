@@ -183,3 +183,14 @@ int main()
 50 30 70 20 40 60 80 -1
 
 */
+
+Output: 
+10 8 21 7 27 5 4 3 -1
+3 4 5 7 8 10 21 27 
+Enter data to add: 99
+3 4 5 7 8 10 21 27 99 
+Min val: 3
+Max val : 99
+
+Enter value to seach: 7
+Prsent
