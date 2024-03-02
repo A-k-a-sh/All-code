@@ -1,4 +1,4 @@
-```#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #define nn "\n"
 using namespace std;
 int  gcd_func(int a,int b)
@@ -28,4 +28,12 @@ int main()
     }
     cout << "Gcd: " << gcd << nn;
     cout << "Lcm: " << lcf << nn;
-}```
+}
+
+
+
+Output:
+5
+2 10 4 7 6 
+Gcd: 1
+Lcm: 420
