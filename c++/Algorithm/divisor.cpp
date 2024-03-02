@@ -32,8 +32,8 @@ int main()
     return 0;
 }
 
-```
-10
+
+```10
 From 1 to n all the divisors are following: 
 1
 1 =>Total = 1; Sum: 1
