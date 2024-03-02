@@ -1,0 +1,12 @@
+import pywhatkit as pyw
+pyw.sendwhatmsg('+880 1828-511380','hello there',21,57)
+
+import pywhatkit as kit
+
+# Search for a query on Google
+kit.search("Python programming")
+
+import pywhatkit as kit
+
+# Play a YouTube video
+kit.playonyt("mayobono biharini song")
